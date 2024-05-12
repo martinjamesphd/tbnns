@@ -1,3 +1,5 @@
+This repo is forked from from the following repo, updated for compatability with tensorflow 2.*
+
 ## TBNN-s v0.5.0 - Tensor Basis Neural Network for Scalar Mixing
 
 This package implements the vanilla Tensor Basis Neural Network [1]
