@@ -17,7 +17,7 @@ setup(
    long_description=long_description,
    author='Pedro M. Milani',
    author_email='pmmilani@stanford.edu',
-   url="https://github.com/pmmilani/tbnns.git",
+   url="https://github.com/martinjamesphd/tbnns.git",
    packages=['tbnns'],  # same as name
    install_requires=['tensorflow==2.15.0', 'joblib'], # dependencies
    python_requires='>=3.6',
